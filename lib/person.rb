@@ -3,11 +3,11 @@ class Dog
     @name = name
   end
   
-  def #name
+  def name
     @name
   end
   
-  def #name=(newname)
+  def name=(newname)
     @name = newname
   end
 end
