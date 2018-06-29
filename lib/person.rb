@@ -12,11 +12,11 @@ class Dog
     @name = newname
   end
   
-  def name
-    @name
+  def #nbreed
+    @breed
   end
   
-  def #name=(newname)
-    @name = newname
+  def #name=(newbreed)
+    @breed = newbreed
   end
 end
