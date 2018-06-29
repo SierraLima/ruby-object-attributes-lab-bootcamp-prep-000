@@ -1,7 +1,7 @@
-class Dog 
-  def initialize(#name; #breed)
+class Person
+  def initialize(name; job)
     @name = name
-    @breed = breed
+    @job = job
   end
   
   def name
