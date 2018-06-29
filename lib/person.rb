@@ -4,19 +4,19 @@ class Dog
     @breed = breed
   end
   
-  def #name
+  def name
     @name
   end
   
-  def #name=(newname)
+  def name=(newname)
     @name = newname
   end
   
-  def #nbreed
+  def nbreed
     @breed
   end
   
-  def #name=(newbreed)
+  def name=(newbreed)
     @breed = newbreed
   end
 end
